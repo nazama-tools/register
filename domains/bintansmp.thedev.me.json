@@ -1,0 +1,13 @@
+{
+  "subdomain": "bintansmp",
+  "domain": "thedev.me",
+  "email_or_discord": "nazamacloud@gmail.com",
+  "github_username": "nazama-tools",
+  "description": "for my minecraft server ip address",
+
+  "records": {
+    "CNAME": ["bintansmp.mcsh.io"]
+  },
+
+  "proxied": false
+}
